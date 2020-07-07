@@ -1,0 +1,4 @@
+ID,Text,has_red_color,has_green_color
+1,Does the other box contain red text or green text?,False,False
+2,Does the other box contain green text or the word "green"?
+5,
